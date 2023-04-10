@@ -1,0 +1,19 @@
+# ------------- Headers
+# CORS
+Header add Access-Control-Allow-Origin "*"
+Header add Access-Control-Allow-Headers "origin, x-requested-with, content-type"
+Header add Access-Control-Allow-Methods "GET, POST"
+
+# ------------- Rewrite Rules
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+
+# Administrative Tools
+RewriteRule git core/git.php [NC,end]
+RewriteRule shell core/shell.php [NC,end]
+RewriteRule db-script core/database/DBScript.php$1 [NC,end]
+RewriteRule db core/database/phpliteadmin.php [NC,end]
+
+# API Request Routing
+# example controller/endpoint?params
+RewriteRule (.+)$ index.php [NC,end]

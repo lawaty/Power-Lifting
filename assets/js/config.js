@@ -1,0 +1,1 @@
+const TEMPLATES = './templates'

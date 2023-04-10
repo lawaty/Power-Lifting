@@ -1,0 +1,120 @@
+Not Found [] 404 "Endpoint Not Found" 2023-04-05 01:52 2023-04-05 01:52 ::1 0 
+[[[[<br />
+<b>Warning</b>:  Undefined array key 1 in <b>/opt/lampp/htdocs/API Framework/core/proxy/Router.php</b> on line <b>14</b><br />
+]]]]
+
+Not Found [] 404 "Endpoint Not Found" 2023-04-05 01:53 2023-04-05 01:53 ::1 0 
+[[[[string(26) "/API%20Framework/users/get"
+<br />
+<b>Warning</b>:  Undefined array key 1 in <b>/opt/lampp/htdocs/API Framework/core/proxy/Router.php</b> on line <b>15</b><br />
+]]]]
+
+Not Found [] 404 "Endpoint Not Found" 2023-04-05 01:54 2023-04-05 01:54 ::1 0 
+[[[[string(26) "/API%20Framework/users/get"
+<br />
+<b>Warning</b>:  Undefined array key 1 in <b>/opt/lampp/htdocs/API Framework/core/proxy/Router.php</b> on line <b>15</b><br />
+]]]]
+
+Not Found [] 404 "Endpoint Not Found" 2023-04-05 01:58 2023-04-05 01:58 ::1 0 
+[[[[string(26) "/API%20Framework/users/get"
+<br />
+<b>Warning</b>:  Undefined array key 1 in <b>/opt/lampp/htdocs/API Framework/core/proxy/Router.php</b> on line <b>15</b><br />
+]]]]
+
+Not Found [] 404 "Endpoint Not Found" 2023-04-05 02:00 2023-04-05 02:00 ::1 0 
+[[[[string(26) "/API%20Framework/users/get"
+<br />
+<b>Warning</b>:  Undefined array key 1 in <b>/opt/lampp/htdocs/API Framework/core/proxy/Router.php</b> on line <b>15</b><br />
+]]]]
+
+Not Found [] 404 "Endpoint Not Found" 2023-04-05 02:00 2023-04-05 02:00 ::1 0 
+[[[[string(26) "/API%20Framework/users/get"
+<br />
+<b>Warning</b>:  Undefined array key 1 in <b>/opt/lampp/htdocs/API Framework/core/proxy/Router.php</b> on line <b>15</b><br />
+NULL
+array(1) {
+  [0]=>
+  string(0) ""
+}
+]]]]
+
+Not Found [] 404 "Endpoint Not Found" 2023-04-05 02:00 2023-04-05 02:00 ::1 0 
+[[[[string(26) "/API%20Framework/users/get"
+string(25) "localhost/API%20Framework"
+<br />
+<b>Warning</b>:  Undefined array key 1 in <b>/opt/lampp/htdocs/API Framework/core/proxy/Router.php</b> on line <b>15</b><br />
+]]]]
+
+Not Found [] 404 "Endpoint Not Found" 2023-04-05 02:01 2023-04-05 02:01 ::1 0 
+[[[[]]]]
+
+Not Found [] 404 "Endpoint Not Found" 2023-04-05 02:02 2023-04-05 02:02 ::1 0 
+[[[[]]]]
+
+Not Found [] 404 "Endpoint Not Found" 2023-04-05 02:02 2023-04-05 02:02 ::1 0 
+[[[[string(26) "/API%20Framework/users/get"
+string(15) "API%20Framework"
+]]]]
+
+Not Found [] 404 "Endpoint Not Found" 2023-04-05 02:02 2023-04-05 02:02 ::1 0 
+[[[[string(9) "users/get"
+array(2) {
+  [0]=>
+  string(5) "users"
+  [1]=>
+  string(3) "get"
+}
+]]]]
+
+Not Found [] 404 "Endpoint Not Found" 2023-04-05 02:03 2023-04-05 02:03 ::1 0 
+[[[[string(9) "users/Get"
+array(2) {
+  [0]=>
+  string(5) "users"
+  [1]=>
+  string(3) "Get"
+}
+]]]]
+
+Not Found [] 404 "Endpoint Not Found" 2023-04-05 02:05 2023-04-05 02:05 ::1 0 
+[[[[string(24) "./app/endpoints/get/.php"
+bool(false)
+]]]]
+
+Not Found [] 404 "Endpoint Not Found" 2023-04-05 02:06 2023-04-05 02:06 ::1 0 
+[[[[]]]]
+
+Not Found [] 404 "Endpoint Not Found" 2023-04-05 02:06 2023-04-05 02:06 ::1 0 
+[[[[string(26) "./app/endpoints/users/.php"
+bool(false)
+]]]]
+
+Not Found [] 404 "Endpoint Not Found" 2023-04-05 02:06 2023-04-05 02:06 ::1 0 
+[[[[array(2) {
+  [0]=>
+  string(5) "users"
+  [1]=>
+  string(3) "Get"
+}
+string(26) "./app/endpoints/users/.php"
+bool(false)
+]]]]
+
+Get [] 200 success 2023-04-05 02:17 2023-04-05 02:17 ::1 0 
+[[[[]]]]
+
+Not Found [] 404 "Endpoint Not Found" 2023-04-05 02:20 2023-04-05 02:20 ::1 0 
+[[[[]]]]
+
+Get [] 204 success 2023-04-05 02:22 2023-04-05 02:22 ::1 0 
+[[[[]]]]
+
+Create [] 400 "Invalid Parameter: parameter 'username' is not found" 2023-04-05 02:23 2023-04-05 02:23 ::1 0 
+[[[[]]]]
+
+Create {"username":"Lawaty","password":"lawaty10","email":"lol@lol.lol"} 204 success 2023-04-05 02:23 2023-04-05 02:23 ::1 0 
+[[[[]]]]
+
+Get {"username":"Lawaty","password":"lawaty10","email":"lol@lol.lol"} 200 success 2023-04-05 02:23 2023-04-05 02:23 ::1 0 
+[[[[]]]]
+

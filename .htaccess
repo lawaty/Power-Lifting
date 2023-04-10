@@ -1,0 +1,8 @@
+DirectoryIndex home.html
+
+# ------------- Rewrite Rules
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+
+# Pretty HTML Paths
+RewriteRule ^([^\.]+)$ $1.html [NC,L]
